@@ -1,6 +1,7 @@
 # Mental Health App
 
-<img src="mental-health-app.png" alt="App Screenshot" width="500" height="300">
+//iphone 14 size
+<img src="mental-health-app.png" alt="App Screenshot" width="300" height="650">
 
 ## Description
 
