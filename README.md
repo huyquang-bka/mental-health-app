@@ -1,6 +1,6 @@
 # Mental Health App
 
-![App Screenshot](mental-health-app.png)
+<img src="mental-health-app.png" alt="App Screenshot" width="500" height="300">
 
 ## Description
 
