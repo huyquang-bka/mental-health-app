@@ -1,16 +1,32 @@
-# mental_health_app
+# Mental Health App
 
-A new Flutter project.
+![App Screenshot](mental-health-app.png)
 
-## Getting Started
+## Description
 
-This project is a starting point for a Flutter application.
+The Mental Health App is a Flutter application designed to provide support and resources for mental health management.
 
-A few resources to get you started if this is your first Flutter project:
+## Installation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. Clone the repository:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+   ```bash
+   git clone https://github.com/your-username/mental-health-app.git
+   ```
+
+2. Install the dependencies:
+
+   ```bash
+    flutter pub get
+   ```
+
+3. Run the app:
+
+   ```bash
+    flutter run
+   ```
+
+## Technologies
+
+- Flutter
+- Dart
